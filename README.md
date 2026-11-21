@@ -15,5 +15,5 @@ Breadboard Pro <br> https://ai.studio/apps/e504ac3a-67a0-4b8e-9d7a-15cdcf3b12ac?
 LIVE CANADIAN CABLE TV FREE BASIC CABLE EXPERIENCE!!!!!!!!!!!!!!!!<BR>
 WARNING CONTAINS 236 LIVE STREAM FROM ACTUAL TV BROADCASTING STATIONS<br>
 watching lives from this from your region my be violating laws I'm not responsible for your actions.<br>
-https://ai.studio/apps/ccea259d-319f-443c-a593-12c17584b3b1?fullscreenApplet=true
+https://aistudio.google.com/apps/ccea259d-319f-443c-a593-12c17584b3b1?fullscreenApplet=true&showAssistant=true&showPreview=true
 
