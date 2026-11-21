@@ -3,7 +3,7 @@
 </p>
 # BluePill APPS and Extra Applications<br>
 <br>
-Apps Conjured Up Using Various Methods<br>
+Apps Conjured Up Using Various Methods<br><br>
 Display Picture Optimizer <br> https://ai.studio/apps/7aa88ad5-f1f4-4231-a3a6-997656e5f8ba?fullscreenApplet=true
 <br><br>
 SSD1306 OLED Pixel Editor & C-Code Generato<br>https://ai.studio/apps/1ff89e05-31a8-41c3-9b88-28e768da5d48<br><br>
