@@ -10,6 +10,9 @@ SSD1306 OLED Pixel Editor & C-Code Generato<br>https://ai.studio/apps/1ff89e05-3
 MCU Schematic Studio<br>
 https://ai.studio/apps/80a48b0f-cbb0-415b-97ad-5df6f57667d1?fullscreenApplet=true <br><br>
 
+SCREEN ART MAKER SH1106
+https://ai.studio/apps/1ff89e05-31a8-41c3-9b88-28e768da5d48?fullscreenApplet=true
+
 Breadboard Pro <br> https://ai.studio/apps/e504ac3a-67a0-4b8e-9d7a-15cdcf3b12ac?fullscreenApplet=true <br><br>solana cnft maker<br>
 https://ai.studio/apps/be2dd166-118c-4608-bf7a-add514aed623?fullscreenApplet=true<br>
 
